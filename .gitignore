@@ -11,3 +11,6 @@
 # Ignore .out
 
 *.out
+
+test.c
+pointer.c
