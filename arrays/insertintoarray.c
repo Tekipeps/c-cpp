@@ -30,5 +30,4 @@ int main(int argc, char const *argv[])
 	for(i=0;i<=n;i++)
 	printf("%d\n",p[i]);
 
-	return 0;
 }
